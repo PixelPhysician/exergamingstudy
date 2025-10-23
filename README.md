@@ -22,3 +22,4 @@ Write the result to a file named FILENAME_info_v1.json, where FILENAME correspon
 
 After successful generation of the enriched data file, the extracted contents will be deleted, while the original ZIP archive will remain intact.
 
+
